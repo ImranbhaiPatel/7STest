@@ -6,6 +6,9 @@
 ***************************************************************************************************************/
 public class x7S_TestConstants {
     
+	/*
+	new changes 3 addeded here
+	*/
     // Utility
     public static final string SOURCE_ORG_Name_SB = 'deluxesb';
     public static final string SOURCE_ORG_Name_FS = 'deluxefs';

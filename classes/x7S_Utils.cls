@@ -67,6 +67,7 @@ public class x7S_Utils {
         if (objectList == null || objectList.size() == 0) {
             return true;
         }
+		//will return false
         return false;
     }
 }
