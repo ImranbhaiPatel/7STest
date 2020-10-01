@@ -6,6 +6,10 @@
 * Created By: [Lucas Soderstrom] (7Summits)
 ***************************************************************************************************************/
 public class x7S_Utils {
+
+	/*
+		Changes 6
+	*/
     private static String DX_QA_ADMIN_PROFILE = 'Dx QA Admin';
     private static String DX_SYSTEM_ADMIN_PROFILE = 'Dx System Admin';
     private static String SYSTEM_ADMIN_PROFILE = 'System Administrator';
